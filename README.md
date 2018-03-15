@@ -11,6 +11,9 @@ We meet on Wednesday afternoons (unless otherwise specified *),
 357](https://www.mq.edu.au/about/contacts-and-maps/maps).  All are
 welcome to join us.
 
+Contact [Mark Dras](http://web.science.mq.edu.au/~madras/) if you'd
+like to get more information or to join the mailing list.
+
 ### Papers / Topics
 
 Date | [Presenter](#presenters) | Topic
