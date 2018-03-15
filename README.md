@@ -1,4 +1,5 @@
-## Machine Learning Reading Group - Department of Computing, Macquarie University
+## Machine Learning Reading Group
+## Department of Computing, Macquarie University
 
 The reading group has been running weekly for several years (although we've
 only set up this github page in 2018).
