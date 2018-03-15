@@ -1,8 +1,10 @@
-## Machine Learning Reading Group
-## Department of Computing, Macquarie University
+## MQU Machine Learning Reading Group
 
-The reading group has been running weekly for several years (although we've
-only set up this github page in 2018).
+
+
+The reading group has been running weekly for several years within the
+[Department of Computing](http://comp.mq.edu.au), [Macquarie University](https://www.mq.edu.au/) (although we've only set
+up this github page in 2018).
 
 We meet on Wednesday afternoons, 2.00-3.30pm in the Department's
 seminar room: [9WW
