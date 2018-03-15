@@ -11,6 +11,7 @@ seminar room: [9WW
 357](https://www.mq.edu.au/about/contacts-and-maps/maps).  All are
 welcome to join us.
 
+### Papers / Topics
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
