@@ -15,6 +15,7 @@ welcome to join us.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+21/3 | PS | Variational Inference and Deep Generative Models
 14/3 | GK | [Scalable and accurate deep learning for electronic health records](https://arxiv.org/abs/1801.07860)
 7/3 | GP | An Introduction to Containers using Docker
 28/2 | MY | [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy](http://proceedings.mlr.press/v48/gilad-bachrach16.pdf)
@@ -32,3 +33,4 @@ GP | Glen Pink
 MD | Mark Dras
 MJ | Mark Johnson
 MY | Mahmood Yousefiazar
+PS | Philip Schulz
