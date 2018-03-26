@@ -18,7 +18,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-27/03 | MD | [Generating Natural Adversarial Examples](https://arxiv.org/abs/1710.11342)
+28/03 | MD | [Generating Natural Adversarial Examples](https://arxiv.org/abs/1710.11342)
 20/03* | PS | Variational Inference and Deep Generative Models
 14/03 | GK | [Scalable and accurate deep learning for electronic health records](https://arxiv.org/abs/1801.07860)
 07/03 | GP | An Introduction to Containers using Docker
