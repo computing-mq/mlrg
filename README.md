@@ -18,7 +18,8 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-04/03 | MD | [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937), plus [first author's webpage](https://avdnoord.github.io/homepage/vqvae/)
+11/04 | MD | [SemEval-2016 Task 6: Detecting Stance in Tweets](https://www.aclweb.org/anthology/S/S16/S16-1003.pdf), plus [sample data](http://alt.qcri.org/semeval2016/task6/data/uploads/semeval2016-task6-trainingdata.txt); [A Multidimensional Lexicon for Interpersonal Stancetaking](https://aclanthology.info/papers/P17-1082/p17-1082)
+04/04 | MD | [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937), plus [first author's webpage](https://avdnoord.github.io/homepage/vqvae/)
 28/03 | MD | [Generating Natural Adversarial Examples](https://arxiv.org/abs/1710.11342)
 20/03* | PS | Variational Inference and Deep Generative Models
 14/03 | GK | [Scalable and accurate deep learning for electronic health records](https://arxiv.org/abs/1801.07860)
