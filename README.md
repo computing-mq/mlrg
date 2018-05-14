@@ -18,6 +18,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+16/05 | MJ | Constrained RNN decoders
 09/05 | NF | A Novel Framework for Author Obfuscation using Generalised Differential Privacy
 02/05 | PA | [A Scalable Hierarchical Distributed Language Model](https://protect-au.mimecast.com/s/x85iClx1OYUPvjXU1syHM?domain=papers.nips.cc); [From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification](https://protect-au.mimecast.com/s/phXGCmO5wZsPr9WUDGoFp?domain=arxiv.org)
 18/04 | MS | [An overview of deep learning based methods for unsupervised and semi-supervised anomaly detection in videos](https://arxiv.org/abs/1801.03149)
