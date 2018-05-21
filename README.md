@@ -39,6 +39,7 @@ Date | [Presenter](#presenters) | Topic
 
 Abbreviation | Name
 ------------ | ----
+CY | Chris Yong
 GK | Georgie Kennedy
 GP | Glen Pink
 MD | Mark Dras
