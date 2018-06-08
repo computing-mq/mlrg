@@ -1,3 +1,4 @@
+
 ## MQU Machine Learning Reading Group
 
 
@@ -18,8 +19,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-06/06 | MD | [SynTF: Synthetic and Differentially Private Term Frequency
-Vectors for Privacy-Preserving Text Mining](https://arxiv.org/pdf/1805.00904.pdf)
+06/06 | MD | [SynTF: Synthetic and Differentially Private Term Frequency Vectors for Privacy-Preserving Text Mining](https://arxiv.org/pdf/1805.00904.pdf)
 30/05 | MD | [Towards Robust and Privacy-preserving Text Representations](https://arxiv.org/pdf/1805.06093.pdf)
 23/05 | CY | [Stacked Convolutional and Recurrent Neural Networks for Music Emotion Recognition](https://arxiv.org/abs/1706.02292)
 16/05 | MJ | Constrained RNN decoders
