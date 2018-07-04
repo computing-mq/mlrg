@@ -19,6 +19,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+04/07 | MD | [fast.ai Deep Learning course, part 2 (cont.)](http://course.fast.ai/)
 27/06 | MD | [fast.ai Deep Learning course, part 2](http://course.fast.ai/)
 20/06 | - | no meeting
 13/06 | MD | [fast.ai Deep Learning course, part 1](http://course.fast.ai/)
