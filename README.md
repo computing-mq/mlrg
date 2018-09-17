@@ -19,6 +19,10 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+19/09 | MD | [Visualizing and Understanding Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_dyz.pdf)
+12/09 | DM | Project Jupyter and Large Scale Data Science
+05/09 | JQ | [An automated medical scribe for documenting clinical encounters](http://aclweb.org/anthology/N18-5003)
+15/08 | DM | [fast.ai Deep Learning course, part 3](http://course.fast.ai/)
 08/08 | - | no meeting (CLaS seminar instead)
 25/07 | DM | [fast.ai Deep Learning course, part 3](http://course.fast.ai/)
 04/07 | MD | [fast.ai Deep Learning course, part 2 (cont.)](http://course.fast.ai/)
