@@ -19,6 +19,8 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+03/10 | ON | [ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector](http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/588.pdf)
+26/09 | MD | [Prior Knowledge Integration for Neural Machine Translation using Posterior Regularization](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_zjc.pdf)
 19/09 | MD | [Visualizing and Understanding Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_dyz.pdf)
 12/09 | DM | Project Jupyter and Large Scale Data Science
 05/09 | JQ | [An automated medical scribe for documenting clinical encounters](http://aclweb.org/anthology/N18-5003)
@@ -56,10 +58,12 @@ CY | Chris Yong
 DM | Diego Molla
 GK | Georgie Kennedy
 GP | Glen Pink
+JQ | Juan Quiroz Aguilera
 MD | Mark Dras
 MJ | Mark Johnson
 MS | Maryam Shahpasand
 MY | Mahmood Yousefiazar
 NF | Natasha Fernandes
+ON | Omid Mohamad Nezami
 PA | Peter Anderson
 PS | Philip Schulz
