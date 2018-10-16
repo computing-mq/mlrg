@@ -19,6 +19,8 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+17/10 | CS | [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf)
+10/10 | AA | [Style Transfer from Non-Parallel Text by Cross-Alignment](https://arxiv.org/abs/1705.09655)
 03/10 | ON | [ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector](http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/588.pdf)
 26/09 | MD | [Prior Knowledge Integration for Neural Machine Translation using Posterior Regularization](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_zjc.pdf)
 19/09 | MD | [Visualizing and Understanding Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_dyz.pdf)
@@ -54,6 +56,8 @@ Date | [Presenter](#presenters) | Topic
 
 Abbreviation | Name
 ------------ | ----
+AA | Abdo Alabdulwahab
+CS | Chakaveh Saedi
 CY | Chris Yong
 DM | Diego Molla
 GK | Georgie Kennedy
