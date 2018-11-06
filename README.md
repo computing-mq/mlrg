@@ -19,6 +19,9 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+07/11 | YL | [A Multilayer Convolutional Encoder-Decoder Neural Network
+for Grammatical Error Correction](https://arxiv.org/pdf/1801.08831.pdf)
+31/10 | - | no meeting
 24/10 | MD | [Style Transfer Through Back-Translation](https://arxiv.org/pdf/1804.09000.pdf)
 17/10 | CS | [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf)
 10/10 | AA | [Style Transfer from Non-Parallel Text by Cross-Alignment](https://arxiv.org/abs/1705.09655)
@@ -72,3 +75,4 @@ NF | Natasha Fernandes
 ON | Omid Mohamad Nezami
 PA | Peter Anderson
 PS | Philip Schulz
+YL | Yitao Liu
