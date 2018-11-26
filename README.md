@@ -19,6 +19,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+28/11 | - | no meeting
 21/11 | WZ | [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](http://aclweb.org/anthology/P17-1061)
 14/11 | MJ | [Constituency Parsing with a Self-Attentive Encoder](http://nlp.cs.berkeley.edu/pubs/Kitaev-Klein_2018_SelfAttentiveParser_paper.pdf)
 07/11 | YL | [A Multilayer Convolutional Encoder-Decoder Neural Network
