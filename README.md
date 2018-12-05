@@ -19,12 +19,12 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+12/12 | GK | TBA
 05/12 | - | no meeting
 28/11 | - | no meeting
 21/11 | WZ | [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](http://aclweb.org/anthology/P17-1061)
 14/11 | MJ | [Constituency Parsing with a Self-Attentive Encoder](http://nlp.cs.berkeley.edu/pubs/Kitaev-Klein_2018_SelfAttentiveParser_paper.pdf)
-07/11 | YL | [A Multilayer Convolutional Encoder-Decoder Neural Network
-for Grammatical Error Correction](https://arxiv.org/pdf/1801.08831.pdf)
+07/11 | YL | [A Multilayer Convolutional Encoder-Decoder Neural Network for Grammatical Error Correction](https://arxiv.org/pdf/1801.08831.pdf)
 31/10 | - | no meeting
 24/10 | MD | [Style Transfer Through Back-Translation](https://arxiv.org/pdf/1804.09000.pdf)
 17/10 | CS | [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf)
