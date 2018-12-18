@@ -9,14 +9,13 @@ up this github page in 2018).
 
 We've finished up for 2018.
 
-In 2018, 
-we met on Wednesday afternoons (unless otherwise specified *),
-2.00-3.30pm in the Department's seminar room: [9WW
-357](https://www.mq.edu.au/about/contacts-and-maps/maps).
-In 2019, we'll be meeting instead on Monday afternoons 3.00-4.30pm in
-the same location (at least at the start of the year); we'll be
-alternating with the [Image Analysis Reading
-Group](https://computing-mq.github.io/iarg/).
+In 2018, we met on Wednesday afternoons (unless otherwise specified
+*), 2.00-3.30pm in the Department's seminar room: [9WW
+357](https://www.mq.edu.au/about/contacts-and-maps/maps).  In 2019,
+we'll be meeting instead on Monday afternoons 3.00-4.30pm in the same
+location (at least at the start of the year); we'll be meeting every
+second week, with the alternate week slot being filled by the [Image
+Analysis Reading Group](https://computing-mq.github.io/iarg/).
 
 All are
 welcome to join us.
