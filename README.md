@@ -15,7 +15,8 @@ In 2018, we met on Wednesday afternoons (unless otherwise specified
 we'll be meeting instead on Monday afternoons 3.00-4.30pm in the same
 location (at least at the start of the year); we'll be meeting every
 second week, with the alternate week slot being filled by the [Image
-Analysis Reading Group](https://computing-mq.github.io/iarg/).
+Analysis Reading Group](https://computing-mq.github.io/iarg/).  We
+restart Monday 14 January.
 
 All are
 welcome to join us.
