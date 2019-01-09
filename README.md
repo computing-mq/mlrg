@@ -1,5 +1,5 @@
 
-## MQU Machine Learning Reading Group
+# MQU Machine Learning Reading Group
 
 
 
@@ -7,7 +7,7 @@ The reading group has been running weekly for several years within the
 [Department of Computing](http://comp.mq.edu.au), [Macquarie University](https://www.mq.edu.au/) (although we've only set
 up this github page in 2018).
 
-We've finished up for 2018.
+We've restarted in 2019.
 
 In 2018, we met on Wednesday afternoons (unless otherwise specified
 *), 2.00-3.30pm in the Department's seminar room: [9WW
@@ -24,7 +24,15 @@ welcome to join us.
 Contact [Mark Dras](http://web.science.mq.edu.au/~madras/) if you'd
 like to get more information or to join the mailing list.
 
-### Papers / Topics
+## Papers / Topics
+
+### 2019
+
+Date | [Presenter](#presenters) | Topic
+---- | --------- | -----
+14/01 | ON | [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14344/14489)
+
+### 2018
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
@@ -69,7 +77,7 @@ Date | [Presenter](#presenters) | Topic
 07/02 | MD | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044)
 31/01 | MD | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
 
-### Presenters
+## Presenters
 
 Abbreviation | Name
 ------------ | ----
