@@ -30,6 +30,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+04/02 | FA | [Human-level control through deep reinforcement learning](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
 14/01 | ON | [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14344/14489)
 
 ### 2018
@@ -85,6 +86,7 @@ AA | Abdo Alabdulwahab
 CS | Chakaveh Saedi
 CY | Chris Yong
 DM | Diego Molla
+FA | Fred Amouzgar
 GK | Georgie Kennedy
 GP | Glen Pink
 JQ | Juan Quiroz Aguilera
