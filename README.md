@@ -30,6 +30,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+18/02 | FA | [Asynchronous Methods for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/mniha16.pdf) [(arxiv version)](https://arxiv.org/pdf/1602.01783.pdf)
 04/02 | FA | [Human-level control through deep reinforcement learning](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
 14/01 | ON | [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14344/14489)
 
