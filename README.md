@@ -7,16 +7,14 @@ The reading group has been running weekly for several years within the
 [Department of Computing](http://comp.mq.edu.au), [Macquarie University](https://www.mq.edu.au/) (although we've only set
 up this github page in 2018).
 
-We've restarted in 2019.
-
-In 2018, we met on Wednesday afternoons (unless otherwise specified
-*), 2.00-3.30pm in the Department's seminar room: [9WW
-357](https://www.mq.edu.au/about/contacts-and-maps/maps).  In 2019,
-we'll be meeting instead on Monday afternoons 3.00-4.30pm in the same
-location (at least at the start of the year); we'll be meeting every
+In 2019, we'll be meeting on Monday afternoons 3.00-4.30pm in a new
+location: 4 Research Park Drive (the BD building), room 221.  The room
+is on your right as you come out of the lift on level 2, is bright
+red, and has a sign saying "Jan Hext room".  As always, anyone is
+welcome to come along.
+We'll be meeting every
 second week, with the alternate week slot being filled by the [Image
-Analysis Reading Group](https://computing-mq.github.io/iarg/).  We
-restart Monday 14 January.
+Analysis Reading Group](https://computing-mq.github.io/iarg/).  
 
 All are
 welcome to join us.
@@ -30,6 +28,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+04/03 | RS | [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://cacm.acm.org/magazines/2019/3/234929-the-seven-tools-of-causal-inference-with-reflections-on-machine-learning/fulltext?fbclid=IwAR2ZBecxuvia6jvYy02zKame2up79T8P_gLXpGMOEz0FilLzM_OpSosahf8), with an [alternative view](https://statmodeling.stat.columbia.edu/2019/01/08/book-pearl-mackenzie/) by Andrew Gelman
 18/02 | FA | [Asynchronous Methods for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/mniha16.pdf) [(arxiv version)](https://arxiv.org/pdf/1602.01783.pdf)
 04/02 | FA | [Human-level control through deep reinforcement learning](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
 14/01 | ON | [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14344/14489)
