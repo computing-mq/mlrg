@@ -28,6 +28,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+18/03 | PJ | [Exploring neural transducers for end-to-end speech recognition](https://arxiv.org/pdf/1707.07413.pdf)
 04/03 | RS | [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://cacm.acm.org/magazines/2019/3/234929-the-seven-tools-of-causal-inference-with-reflections-on-machine-learning/fulltext?fbclid=IwAR2ZBecxuvia6jvYy02zKame2up79T8P_gLXpGMOEz0FilLzM_OpSosahf8), with an [alternative view](https://statmodeling.stat.columbia.edu/2019/01/08/book-pearl-mackenzie/) by Andrew Gelman
 18/02 | FA | [Asynchronous Methods for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/mniha16.pdf) [(arxiv version)](https://arxiv.org/pdf/1602.01783.pdf)
 04/02 | FA | [Human-level control through deep reinforcement learning](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
@@ -97,6 +98,8 @@ MY | Mahmood Yousefiazar
 NF | Natasha Fernandes
 ON | Omid Mohamad Nezami
 PA | Peter Anderson
+PJ | Paria Jamshid Lou
 PS | Philip Schulz
+RS | Rolf Schwitter
 WZ | Wei Zhang
 YL | Yitao Liu
