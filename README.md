@@ -28,6 +28,9 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+06/05 | TBD | TBD
+15/04 | - | no meeting
+01/04 | MD | [TEXTBUGGER: Generating Adversarial Text Against Real-world Applications](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-5_Li_paper.pdf)
 18/03 | PJ | [Exploring neural transducers for end-to-end speech recognition](https://arxiv.org/pdf/1707.07413.pdf)
 04/03 | RS | [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://cacm.acm.org/magazines/2019/3/234929-the-seven-tools-of-causal-inference-with-reflections-on-machine-learning/fulltext?fbclid=IwAR2ZBecxuvia6jvYy02zKame2up79T8P_gLXpGMOEz0FilLzM_OpSosahf8), with an [alternative view](https://statmodeling.stat.columbia.edu/2019/01/08/book-pearl-mackenzie/) by Andrew Gelman
 18/02 | FA | [Asynchronous Methods for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/mniha16.pdf) [(arxiv version)](https://arxiv.org/pdf/1602.01783.pdf)
