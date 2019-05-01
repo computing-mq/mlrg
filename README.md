@@ -28,7 +28,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-06/05 | TBD | TBD
+06/05 | MD | [Certified Robustness to Adversarial Examples with Differential Privacy](http://mathias.lecuyer.me/assets/assets/pixeldp_sp19.pdf)
 15/04 | - | no meeting
 01/04 | MD | [TEXTBUGGER: Generating Adversarial Text Against Real-world Applications](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-5_Li_paper.pdf)
 18/03 | PJ | [Exploring neural transducers for end-to-end speech recognition](https://arxiv.org/pdf/1707.07413.pdf)
