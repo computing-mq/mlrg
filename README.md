@@ -28,6 +28,8 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+17/06 | IW | slides on BERT
+03/06 | CS | [Adversarially Regularized Autoencoders](https://arxiv.org/pdf/1706.04223.pdf)
 20/05 | MD | [Understanding Convolutional Neural Networks for Text Classification](https://aclweb.org/anthology/W18-5408)
 06/05 | MD | [Certified Robustness to Adversarial Examples with Differential Privacy](http://mathias.lecuyer.me/assets/assets/pixeldp_sp19.pdf)
 15/04 | - | no meeting
@@ -94,6 +96,7 @@ DM | Diego Molla
 FA | Fred Amouzgar
 GK | Georgie Kennedy
 GP | Glen Pink
+IW | Ian Wood
 JQ | Juan Quiroz Aguilera
 MD | Mark Dras
 MJ | Mark Johnson
