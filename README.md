@@ -28,6 +28,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+15/07 | MD | [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 17/06 | IW | slides on BERT
 03/06 | CS | [Adversarially Regularized Autoencoders](https://arxiv.org/pdf/1706.04223.pdf)
 20/05 | MD | [Understanding Convolutional Neural Networks for Text Classification](https://aclweb.org/anthology/W18-5408)
