@@ -28,6 +28,9 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+09/09 | IW | [Probabilistic Embedding of Knowledge Graphs with Box Lattice Measures](https://www.aclweb.org/anthology/P18-1025), [Smoothing the Geometry of Probabilistic Box Embeddings](https://openreview.net/forum?id=H1xSNiRcF7)
+26/08 | - | no meeting
+12/08 | MD | [Generating Natural Adversarial Examples (recap)](https://arxiv.org/abs/1710.11342)
 29/07 | MD | [A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics](https://qmro.qmul.ac.uk/xmlui/handle/123456789/22424)
 15/07 | MD | [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 17/06 | IW | slides on BERT
