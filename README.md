@@ -28,7 +28,9 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+18/11 | RS | [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable (cont.)](https://christophm.github.io/interpretable-ml-book/)
 04/11 | RS | [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
+21/10 | MD | [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf), with [popular summary](https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime) and [notes about shortcomings](http://datascienceninja.com/2019/07/10/lime-explaining-predictions-of-machine-learning-models-1-2/)
 09/09 | IW | [Probabilistic Embedding of Knowledge Graphs with Box Lattice Measures](https://www.aclweb.org/anthology/P18-1025), [Smoothing the Geometry of Probabilistic Box Embeddings](https://openreview.net/forum?id=H1xSNiRcF7)
 26/08 | - | no meeting
 12/08 | MD | [Generating Natural Adversarial Examples (recap)](https://arxiv.org/abs/1710.11342)
