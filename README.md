@@ -28,6 +28,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+04/11 | RS | [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
 09/09 | IW | [Probabilistic Embedding of Knowledge Graphs with Box Lattice Measures](https://www.aclweb.org/anthology/P18-1025), [Smoothing the Geometry of Probabilistic Box Embeddings](https://openreview.net/forum?id=H1xSNiRcF7)
 26/08 | - | no meeting
 12/08 | MD | [Generating Natural Adversarial Examples (recap)](https://arxiv.org/abs/1710.11342)
