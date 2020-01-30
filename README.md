@@ -7,13 +7,13 @@ The reading group has been running weekly for several years within the
 [Department of Computing](http://comp.mq.edu.au), [Macquarie University](https://www.mq.edu.au/) (although we've only set
 up this github page in 2018).
 
-In 2019, we'll be meeting on Monday afternoons 3.00-4.30pm in a new
+In 2020, we'll be meeting on Monday afternoons 3.00-4.30pm in a new
 location: 4 Research Park Drive (the BD building), room 221.  The room
 is on your right as you come out of the lift on level 2, is bright
 red, and has a sign saying "Jan Hext room".  As always, anyone is
 welcome to come along.
-We'll be meeting every
-second week, with the alternate week slot being filled by the [Image
+In a change from 2019, we'll be meeting every
+week, having merged back with the [Image
 Analysis Reading Group](https://computing-mq.github.io/iarg/).  
 
 All are
@@ -23,6 +23,14 @@ Contact [Mark Dras](http://web.science.mq.edu.au/~madras/) if you'd
 like to get more information or to join the mailing list.
 
 ## Papers / Topics
+
+### 2020
+
+Date | [Presenter](#presenters) | Topic
+---- | --------- | -----
+03/02 | MD | [Differentiation of Blackbox Combinatorial Solvers](https://arxiv.org/pdf/1912.02175.pdf)
+20/01 | WB | Insights into Deep Learning
+
 
 ### 2019
 
