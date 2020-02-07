@@ -28,6 +28,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+10/02 | MD | [Leveraging Hierarchical Representations for Preserving Privacy and Utility in Text](https://arxiv.org/abs/1910.08917)
 03/02 | MD | [Differentiation of Blackbox Combinatorial Solvers](https://arxiv.org/pdf/1912.02175.pdf)
 20/01 | WB | Insights into Deep Learning
 
@@ -124,5 +125,6 @@ PA | Peter Anderson
 PJ | Paria Jamshid Lou
 PS | Philip Schulz
 RS | Rolf Schwitter
+WB | Wray Buntine
 WZ | Wei Zhang
 YL | Yitao Liu
