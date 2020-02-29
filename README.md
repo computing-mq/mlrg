@@ -28,6 +28,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+02/03 | IW | [OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference](https://www.aclweb.org/anthology/N19-1083/), [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158)
 24/02 | TC | [Adaptive neural network classifier for decoding MEG signals](https://www.sciencedirect.com/science/article/pii/S1053811919303544)
 17/02 | CS | [Heuristic Authorship Obfuscation](https://www.aclweb.org/anthology/P19-1104/)
 10/02 | MD | [Leveraging Hierarchical Representations for Preserving Privacy and Utility in Text](https://arxiv.org/abs/1910.08917)
