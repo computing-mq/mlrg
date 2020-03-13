@@ -28,6 +28,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+16/03 | YW | Key-Value Copy Network for Novel Object Captioning
 09/03 | FA | [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://papers.nips.cc/paper/6042-learning-to-communicate-with-deep-multi-agent-reinforcement-learning.pdf)
 02/03 | IW | [OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference](https://www.aclweb.org/anthology/N19-1083/), [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158)
 24/02 | TC | [Adaptive neural network classifier for decoding MEG signals](https://www.sciencedirect.com/science/article/pii/S1053811919303544)
@@ -133,3 +134,4 @@ TC | Tim Chard
 WB | Wray Buntine
 WZ | Wei Zhang
 YL | Yitao Liu
+YW | Yufei Wang
