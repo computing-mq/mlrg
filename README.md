@@ -16,6 +16,8 @@ In a change from 2019, we'll be meeting every
 week, having merged back with the [Image
 Analysis Reading Group](https://computing-mq.github.io/iarg/).  
 
+While coronavirus restrictions on meeting are in place, we'll be meeting by zoom.  Zoom meeting details will be sent out in MLRG email announcements.
+
 All are
 welcome to join us.
 
