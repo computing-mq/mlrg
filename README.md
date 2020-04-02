@@ -28,6 +28,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+06/04 | NL | [Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00115)
 16/03 | YW | Key-Value Copy Network for Novel Object Captioning
 09/03 | FA | [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://papers.nips.cc/paper/6042-learning-to-communicate-with-deep-multi-agent-reinforcement-learning.pdf)
 02/03 | IW | [OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference](https://www.aclweb.org/anthology/N19-1083/), [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158)
@@ -125,6 +126,7 @@ MJ | Mark Johnson
 MS | Maryam Shahpasand
 MY | Mahmood Yousefiazar
 NF | Natasha Fernandes
+NL | Na Liu
 ON | Omid Mohamad Nezami
 PA | Peter Anderson
 PJ | Paria Jamshid Lou
