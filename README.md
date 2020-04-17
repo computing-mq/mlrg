@@ -7,11 +7,14 @@ The reading group has been running weekly for several years within the
 [Department of Computing](http://comp.mq.edu.au), [Macquarie University](https://www.mq.edu.au/) (although we've only set
 up this github page in 2018).
 
-In 2020, we'll be meeting on Monday afternoons 3.00-4.30pm in a new
+In 2020, we'll be meeting on Mondays in a new
 location: 4 Research Park Drive (the BD building), room 221.  The room
 is on your right as you come out of the lift on level 2, is bright
 red, and has a sign saying "Jan Hext room".  As always, anyone is
 welcome to come along.
+
+Our regular time is Mondays 3.00-4.30, but until 8 June 2020 we'll temporarily be shifting to Mondays 11.00-12.30.
+
 In a change from 2019, we'll be meeting every
 week, having merged back with the [Image
 Analysis Reading Group](https://computing-mq.github.io/iarg/).  
