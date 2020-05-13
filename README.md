@@ -33,7 +33,8 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-04/05 | FA | [Bootstrapping a Neural Conversational Agent with Dialogue Self-Play, Crowdsourcing and On-Line Reinforcement Learning](https://www.aclweb.org/anthology/N18-3006/)
+18/05 | FA | [Bootstrapping a Neural Conversational Agent with Dialogue Self-Play, Crowdsourcing and On-Line Reinforcement Learning](https://www.aclweb.org/anthology/N18-3006/)
+04/05 | -- | postponed
 06/04 | NL | [Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00115)
 16/03 | YW | Key-Value Copy Network for Novel Object Captioning
 09/03 | FA | [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://papers.nips.cc/paper/6042-learning-to-communicate-with-deep-multi-agent-reinforcement-learning.pdf)
