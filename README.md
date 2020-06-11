@@ -33,6 +33,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+15/06 | PJ | [Improving Disfluency Detection by Self-Training a Self-Attentive Model](https://arxiv.org/pdf/2004.05323.pdf)
 01/06 | NL | [Understanding Black-box Predictions via Influence Functions](http://proceedings.mlr.press/v70/koh17a/koh17a.pdf)
 25/05 | FA | [Policy Networks with Two-Stage Training for Dialogue Systems](https://www.aclweb.org/anthology/W16-3613.pdf)
 18/05 | FA | [Bootstrapping a Neural Conversational Agent with Dialogue Self-Play, Crowdsourcing and On-Line Reinforcement Learning](https://www.aclweb.org/anthology/N18-3006/)
