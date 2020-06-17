@@ -33,6 +33,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+22/06 | JS | [Predictive Engagement: An Efficient Metric for Automatic Evaluation of Open-Domain Dialogue Systems](https://arxiv.org/pdf/1911.01456.pdf)
 15/06 | PJ | [Improving Disfluency Detection by Self-Training a Self-Attentive Model](https://arxiv.org/pdf/2004.05323.pdf)
 01/06 | NL | [Understanding Black-box Predictions via Influence Functions](http://proceedings.mlr.press/v70/koh17a/koh17a.pdf)
 25/05 | FA | [Policy Networks with Two-Stage Training for Dialogue Systems](https://www.aclweb.org/anthology/W16-3613.pdf)
@@ -131,6 +132,7 @@ GK | Georgie Kennedy
 GP | Glen Pink
 IW | Ian Wood
 JQ | Juan Quiroz Aguilera
+JS | James Simpson
 MD | Mark Dras
 MJ | Mark Johnson
 MS | Maryam Shahpasand
