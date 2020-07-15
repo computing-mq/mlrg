@@ -13,10 +13,7 @@ is on your right as you come out of the lift on level 2, is bright
 red, and has a sign saying "Jan Hext room".  As always, anyone is
 welcome to come along.
 
-Our regular time is Mondays 3.00-4.30, but until 8 June 2020 we'll temporarily be shifting to Mondays 11.00-12.30.
-
-In a change from 2019, we'll be meeting every
-week, having merged back with the [Image
+Our regular time is Mondays 3.00-4.30.  In a change from 2019, we'll be meeting weekly (when other events permit0, having merged back with the [Image
 Analysis Reading Group](https://computing-mq.github.io/iarg/).  
 
 While coronavirus restrictions on meeting are in place, we'll be meeting by zoom.  Zoom meeting details will be sent out in MLRG email announcements.
@@ -33,6 +30,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+20/07 | SS | [Dynamic Routing Between Capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
 22/06 | JS | [Predictive Engagement: An Efficient Metric for Automatic Evaluation of Open-Domain Dialogue Systems](https://arxiv.org/pdf/1911.01456.pdf)
 15/06 | PJ | [Improving Disfluency Detection by Self-Training a Self-Attentive Model](https://arxiv.org/pdf/2004.05323.pdf)
 01/06 | NL | [Understanding Black-box Predictions via Influence Functions](http://proceedings.mlr.press/v70/koh17a/koh17a.pdf)
