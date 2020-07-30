@@ -30,6 +30,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+03/08 | MD | Privacy Risks of General-Purpose Language Models
 27/07 | AAA | [Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://ieeexplore.ieee.org/document/9086055)
 20/07 | SS | [Dynamic Routing Between Capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
 22/06 | JS | [Predictive Engagement: An Efficient Metric for Automatic Evaluation of Open-Domain Dialogue Systems](https://arxiv.org/pdf/1911.01456.pdf)
