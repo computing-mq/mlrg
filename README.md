@@ -30,6 +30,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+17/08 | HB | [TAPAS: Weakly Supervised Table Parsing via Pre-training](https://arxiv.org/pdf/2004.02349.pdf)
 10/08 | MD | Privacy Risks of General-Purpose Language Models
 03/08 | -- | postponed
 27/07 | AAA | [Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://ieeexplore.ieee.org/document/9086055)
@@ -132,6 +133,7 @@ DM | Diego Molla
 FA | Fred Amouzgar
 GK | Georgie Kennedy
 GP | Glen Pink
+HB | Hanieh Borhanazad
 IW | Ian Wood
 JQ | Juan Quiroz Aguilera
 JS | James Simpson
