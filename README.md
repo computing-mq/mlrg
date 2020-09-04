@@ -30,6 +30,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+07/09 | FA | [Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230)
 17/08 | HB | [TAPAS: Weakly Supervised Table Parsing via Pre-training](https://arxiv.org/pdf/2004.02349.pdf)
 10/08 | MD | Privacy Risks of General-Purpose Language Models
 03/08 | -- | postponed
