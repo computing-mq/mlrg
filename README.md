@@ -13,7 +13,7 @@ is on your right as you come out of the lift on level 2, is bright
 red, and has a sign saying "Jan Hext room".  As always, anyone is
 welcome to come along.
 
-Our regular time is Mondays 3.00-4.30.  In a change from 2019, we'll be meeting weekly (when other events permit0, having merged back with the [Image
+Our regular time is Mondays 3.00-4.30.  In a change from 2019, we'll be meeting weekly (when other events permit), having merged back with the [Image
 Analysis Reading Group](https://computing-mq.github.io/iarg/).  
 
 While coronavirus restrictions on meeting are in place, we'll be meeting by zoom.  Zoom meeting details will be sent out in MLRG email announcements.
