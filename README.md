@@ -31,6 +31,7 @@ like to get more information or to join the mailing list.
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
 26/10 | AAA | TBA
+28/09 | MD | [Detecting Adversarial Samples Using Influence Functions and Nearest Neighbors](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cohen_Detecting_Adversarial_Samples_Using_Influence_Functions_and_Nearest_Neighbors_CVPR_2020_paper.pdf)
 21/09 | MD | [Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning](https://arxiv.org/abs/1803.04765), [Interpreting Neural Networks with Nearest Neighbors](https://www.aclweb.org/anthology/W18-5416.pdf)
 14/09 | IW | [Knowledge Enhanced Contextual Word Representations](https://www.aclweb.org/anthology/D19-1005/)
 07/09 | FA | [Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230)
