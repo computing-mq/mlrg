@@ -30,7 +30,8 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-26/10 | AAA | TBA
+09/11 | AAA | TBA
+26/10 | -- | no meeting
 19/10 | FA | [Human Instruction-Following with Deep Reinforcement Learning via Transfer-Learning from Text](https://arxiv.org/pdf/2005.09382.pdf)
 28/09 | MD | [Detecting Adversarial Samples Using Influence Functions and Nearest Neighbors](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cohen_Detecting_Adversarial_Samples_Using_Influence_Functions_and_Nearest_Neighbors_CVPR_2020_paper.pdf)
 21/09 | MD | [Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning](https://arxiv.org/abs/1803.04765), [Interpreting Neural Networks with Nearest Neighbors](https://www.aclweb.org/anthology/W18-5416.pdf)
