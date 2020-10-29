@@ -31,6 +31,7 @@ like to get more information or to join the mailing list.
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
 09/11 | AAA | TBA
+02/11 | ST | [A4NT: Author Attribute Anonymity by Adversarial Training of Neural Machine Translation](https://www.usenix.org/conference/usenixsecurity18/presentation/shetty)
 26/10 | -- | no meeting
 19/10 | FA | [Human Instruction-Following with Deep Reinforcement Learning via Transfer-Learning from Text](https://arxiv.org/pdf/2005.09382.pdf)
 28/09 | MD | [Detecting Adversarial Samples Using Influence Functions and Nearest Neighbors](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cohen_Detecting_Adversarial_Samples_Using_Influence_Functions_and_Nearest_Neighbors_CVPR_2020_paper.pdf)
@@ -155,6 +156,7 @@ PA | Peter Anderson
 PJ | Paria Jamshid Lou
 PS | Philip Schulz
 RS | Rolf Schwitter
+ST | Shakila Tonni
 TC | Tim Chard
 WB | Wray Buntine
 WZ | Wei Zhang
