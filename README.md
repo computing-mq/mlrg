@@ -30,6 +30,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+30/11 | YW | [Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation](https://www.aclweb.org/anthology/2020.emnlp-main.505.pdf)
 09/11 | AAA | UNET-Based Multi-Task Architecture for Brain Lesion Segmentation
 02/11 | ST | [A4NT: Author Attribute Anonymity by Adversarial Training of Neural Machine Translation](https://www.usenix.org/conference/usenixsecurity18/presentation/shetty)
 26/10 | -- | no meeting
