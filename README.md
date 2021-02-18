@@ -4,27 +4,24 @@
 
 
 The reading group has been running weekly for several years within the
-[Department of Computing](http://comp.mq.edu.au), [Macquarie University](https://www.mq.edu.au/) (although we've only set
+[Department of Computing](http://comp.mq.edu.au), [Macquarie University](https://www.mq.edu.au/) (although we only set
 up this github page in 2018).
 
-In 2020, we'll be meeting on Mondays in a new
-location: 4 Research Park Drive (the BD building), room 221.  The room
-is on your right as you come out of the lift on level 2, is bright
-red, and has a sign saying "Jan Hext room".  As always, anyone is
-welcome to come along.
+In 2021, we'll be meeting on Mondays by zoom.  Zoom meeting details will be sent out in MLRG email announcements.  As always, anyone is
+welcome to take part.
 
-Our regular time is Mondays 3.00-4.30.  In a change from 2019, we'll be meeting weekly (when other events permit), having merged back with the [Image
-Analysis Reading Group](https://computing-mq.github.io/iarg/).  
-
-While coronavirus restrictions on meeting are in place, we'll be meeting by zoom.  Zoom meeting details will be sent out in MLRG email announcements.
-
-All are
-welcome to join us.
+In a change from the last few years, our regular time is Mondays 11.00-12.30.  We'll be sharing the timeslot with the LTG seminar.  
 
 Contact [Mark Dras](http://web.science.mq.edu.au/~madras/) if you'd
 like to get more information or to join the mailing list.
 
 ## Papers / Topics
+
+### 2021
+
+Date | [Presenter](#presenters) | Topic
+---- | --------- | -----
+22/02 | YW | [On the Evaluation of Vision-and-Language Navigation Instructions](https://arxiv.org/pdf/2101.10504.pdf)
 
 ### 2020
 
