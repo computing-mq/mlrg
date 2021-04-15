@@ -21,6 +21,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+19/04 | TC | [Are we done with ImageNet?](https://arxiv.org/abs/2006.07159)
 29/03 | MD | [Improving Emotion Classification through Variational Inference of Latent Variables](https://ieeexplore.ieee.org/document/8682823), [blog discussion](https://www.amazon.science/blog/using-adversarial-training-to-recognize-speakers-emotions)
 15/03 | MD | [Multimodal and Multi-view Models for Emotion Recognition](https://arxiv.org/pdf/1906.10198.pdf), [Improving Emotion Classification through Variational Inference of Latent Variables](https://ieeexplore.ieee.org/document/8682823)
 22/02 | YW | [On the Evaluation of Vision-and-Language Navigation Instructions](https://arxiv.org/pdf/2101.10504.pdf)
