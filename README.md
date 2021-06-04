@@ -21,6 +21,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+07/06 | ST | [BERT meets Shapley: Extending SHAP Explanations to Transformer-based Classifiers](https://www.aclweb.org/anthology/2021.hackashop-1.3.pdf)
 17/05 | MD | [CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters](https://www.aclweb.org/anthology/2020.coling-main.609/)
 19/04 | TC | [Are we done with ImageNet?](https://arxiv.org/abs/2006.07159)
 29/03 | MD | [Improving Emotion Classification through Variational Inference of Latent Variables](https://ieeexplore.ieee.org/document/8682823), [blog discussion](https://www.amazon.science/blog/using-adversarial-training-to-recognize-speakers-emotions)
