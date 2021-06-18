@@ -21,6 +21,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+21/06 | PF | [Native Language Identification with User Generated Content](https://www.aclweb.org/anthology/D18-1395.pdf)
 07/06 | ST | [BERT meets Shapley: Extending SHAP Explanations to Transformer-based Classifiers](https://www.aclweb.org/anthology/2021.hackashop-1.3.pdf)
 17/05 | MD | [CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters](https://www.aclweb.org/anthology/2020.coling-main.609/)
 19/04 | TC | [Are we done with ImageNet?](https://arxiv.org/abs/2006.07159)
@@ -157,6 +158,7 @@ NF | Natasha Fernandes
 NL | Na Liu
 ON | Omid Mohamad Nezami
 PA | Peter Anderson
+PF | Pedro Faustini
 PJ | Paria Jamshid Lou
 PS | Philip Schulz
 RS | Rolf Schwitter
