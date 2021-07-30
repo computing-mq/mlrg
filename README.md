@@ -21,6 +21,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+02/08 | FA | [Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction](https://aclanthology.org/D18-1287/)
 12/07 | AD | [Dense Passage Retrieval for Open-Domain Question Answering](https://aclanthology.org/2020.emnlp-main.550.pdf)
 21/06 | PF | [Native Language Identification with User Generated Content](https://www.aclweb.org/anthology/D18-1395.pdf)
 07/06 | ST | [BERT meets Shapley: Extending SHAP Explanations to Transformer-based Classifiers](https://www.aclweb.org/anthology/2021.hackashop-1.3.pdf)
