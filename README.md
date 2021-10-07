@@ -21,6 +21,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+11/10 | MD | [Optimal Geo-Indistinguishable Mechanisms for Location Privacy](https://arxiv.org/abs/1402.5029)
 23/08 | PF | [OptiGAN: Generative Adversarial Networks for Goal Optimized Sequence Generation](https://arxiv.org/abs/2004.07534)
 02/08 | FA | [Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction](https://aclanthology.org/D18-1287/)
 12/07 | AD | [Dense Passage Retrieval for Open-Domain Question Answering](https://aclanthology.org/2020.emnlp-main.550.pdf)
