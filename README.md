@@ -21,7 +21,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-18/11 | NF | [Large Language Models Can Be Strong Differentially Private Learners](https://arxiv.org/abs/2110.05679)
+22/11 | NF | [Large Language Models Can Be Strong Differentially Private Learners](https://arxiv.org/abs/2110.05679)
 11/10 | MD | [Optimal Geo-Indistinguishable Mechanisms for Location Privacy](https://arxiv.org/abs/1402.5029)
 23/08 | PF | [OptiGAN: Generative Adversarial Networks for Goal Optimized Sequence Generation](https://arxiv.org/abs/2004.07534)
 02/08 | FA | [Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction](https://aclanthology.org/D18-1287/)
