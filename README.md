@@ -7,7 +7,7 @@ The reading group has been running weekly for several years within the
 [Department of Computing](http://comp.mq.edu.au), [Macquarie University](https://www.mq.edu.au/) (although we only set
 up this github page in 2018).
 
-In 2021, we'll be meeting on Mondays by zoom.  Zoom meeting details will be sent out in MLRG email announcements.  As always, anyone is
+In 2022, we'll be meeting on Mondays by zoom.  Zoom meeting details will be sent out in MLRG email announcements.  As always, anyone is
 welcome to take part.
 
 In a change from the last few years, our regular time is Mondays 11.00-12.30.  We'll be sharing the timeslot with the LTG seminar.  
@@ -16,6 +16,12 @@ Contact [Mark Dras](http://web.science.mq.edu.au/~madras/) if you'd
 like to get more information or to join the mailing list.
 
 ## Papers / Topics
+
+### 2022
+
+Date | [Presenter](#presenters) | Topic
+---- | --------- | -----
+31/01 | NF | [Deep Leakage from Gradients](https://papers.nips.cc/paper/2019/hash/60a6c4002cc7b29142def8871531281a-Abstract.html)
 
 ### 2021
 
