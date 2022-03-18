@@ -21,6 +21,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+21/03 | NF | [Does Label Differential Privacy Prevent Label Inference Attacks?](https://arxiv.org/abs/2202.12968)
 31/01 | NF | [Deep Leakage from Gradients](https://papers.nips.cc/paper/2019/hash/60a6c4002cc7b29142def8871531281a-Abstract.html)
 
 ### 2021
