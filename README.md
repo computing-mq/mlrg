@@ -21,6 +21,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+25/07 | MD | [CAPE: Context-Aware Private Embeddings for Private Language Learning](https://aclanthology.org/2021.emnlp-main.628/)
 08/07 | PF | [Controllable Sentence Simplification](https://aclanthology.org/2020.lrec-1.577/), [Controllable Sentence Simplification with a Unified Text-to-Text Transfer Transformer](https://aclanthology.org/2021.inlg-1.38/)
 21/03 | NF | [Does Label Differential Privacy Prevent Label Inference Attacks?](https://arxiv.org/abs/2202.12968)
 31/01 | NF | [Deep Leakage from Gradients](https://papers.nips.cc/paper/2019/hash/60a6c4002cc7b29142def8871531281a-Abstract.html)
