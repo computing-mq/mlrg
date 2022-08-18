@@ -21,6 +21,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+22/08 | DW | [Evolution-Guided Policy Gradient in Reinforcement Learning](http://papers.neurips.cc/paper/7395-evolution-guided-policy-gradient-in-reinforcement-learning.pdf)
 01/08 | MD | [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://papers.nips.cc/paper/2018/hash/abdeb6f575ac5c6676b747bca8d09cc2-Abstract.html), [Distance Metric Learning with Application to Clustering with Side-Information](https://proceedings.neurips.cc/paper/2002/hash/c3e4035af2a1cde9f21e1ae1951ac80b-Abstract.html)
 25/07 | MD | [CAPE: Context-Aware Private Embeddings for Private Language Learning](https://aclanthology.org/2021.emnlp-main.628/)
 08/07 | PF | [Controllable Sentence Simplification](https://aclanthology.org/2020.lrec-1.577/), [Controllable Sentence Simplification with a Unified Text-to-Text Transfer Transformer](https://aclanthology.org/2021.inlg-1.38/)
@@ -159,6 +160,7 @@ AD | Anil Dadwal
 CS | Chakaveh Saedi
 CY | Chris Yong
 DM | Diego Molla
+DW | David Warren
 FA | Fred Amouzgar
 GK | Georgie Kennedy
 GP | Glen Pink
