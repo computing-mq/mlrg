@@ -17,6 +17,12 @@ like to get more information or to join the mailing list.
 
 ## Papers / Topics
 
+### 2023
+
+Date | [Presenter](#presenters) | Topic
+---- | --------- | -----
+22/08 | DMA | [Technology behind ChatGPT](https://arxiv.org/abs/2203.02155)
+
 ### 2022
 
 Date | [Presenter](#presenters) | Topic
