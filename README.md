@@ -21,7 +21,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-22/08 | DMA | [Technology behind ChatGPT](https://arxiv.org/abs/2203.02155)
+22/08 | DMA | Technology behind ChatGPT: [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155), [Language Models are Few-Shot Learners](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
 
 ### 2022
 
