@@ -21,7 +21,8 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-22/08 | DMA | Technology behind ChatGPT: [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155), [Language Models are Few-Shot Learners](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
+20/02 | MD | [Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)
+13/02 | DMA | Technology behind ChatGPT: [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155), [Language Models are Few-Shot Learners](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
 
 ### 2022
 
