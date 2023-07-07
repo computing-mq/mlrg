@@ -21,6 +21,7 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
+07/07 | MD | [Bootstrapping Multilingual Semantic Parsers using Large Language Models](https://aclanthology.org/2023.eacl-main.180/)
 23/03 | PF | [ADePT: Auto-encoder based Differentially Private Text Transformation](https://aclanthology.org/2021.eacl-main.207/), [When differential privacy meets NLP: The devil is in the detail](https://aclanthology.org/2021.emnlp-main.114/)
 20/02 | MD | [Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)
 13/02 | DMA | Technology behind ChatGPT: [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155), [Language Models are Few-Shot Learners](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
