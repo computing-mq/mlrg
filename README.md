@@ -7,7 +7,7 @@ The reading group has been running weekly for several years within the
 [Department of Computing](http://comp.mq.edu.au), [Macquarie University](https://www.mq.edu.au/) (although we only set
 up this github page in 2018).
 
-In 2022, we'll be meeting on Mondays by zoom.  Zoom meeting details will be sent out in MLRG email announcements.  As always, anyone is
+We meet on Mondays by zoom.  Zoom meeting details will be sent out in MLRG email announcements.  As always, anyone is
 welcome to take part.
 
 In a change from the last few years, our regular time is Mondays 11.00-12.30.  We'll be sharing the timeslot with the LTG seminar.  
