@@ -21,7 +21,9 @@ like to get more information or to join the mailing list.
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-07/08 | MD | [Automatic Detection of Generated Text is Easiest when Humans are Fooled](https://aclanthology.org/2020.acl-main.164/), [All That’s ‘Human’ Is Not Gold: Evaluating Human Evaluation of Generated Text](https://aclanthology.org/2021.acl-long.565/)
+18/09 | TC | [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759), [Textbooks Are All You Need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463)
+14/08 | MD | [All That’s ‘Human’ Is Not Gold: Evaluating Human Evaluation of Generated Text](https://aclanthology.org/2021.acl-long.565/)
+07/08 | MD | [Automatic Detection of Generated Text is Easiest when Humans are Fooled](https://aclanthology.org/2020.acl-main.164/)
 07/07 | MD | [Bootstrapping Multilingual Semantic Parsers using Large Language Models](https://aclanthology.org/2023.eacl-main.180/)
 23/03 | PF | [ADePT: Auto-encoder based Differentially Private Text Transformation](https://aclanthology.org/2021.eacl-main.207/), [When differential privacy meets NLP: The devil is in the detail](https://aclanthology.org/2021.emnlp-main.114/)
 20/02 | MD | [Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)
